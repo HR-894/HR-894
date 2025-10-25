@@ -1,0 +1,24 @@
+name: GitHub-Profile-3D-Contrib
+
+on:
+  schedule: # Yeh roz 12 baje UTC par run hoga
+    - cron: "0 12 * * *"
+  workflow_dispatch: # Isse aap manually bhi run kar sakte hain
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    name: generate-github-profile-3d-contrib
+    steps:
+      - uses: actions/checkout@v3
+      - uses: yoshi389111/github-profile-3d-contrib@0.7.0
+        with:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          USERNAME: ${{ github.repository_owner }} # Yeh automatically 'HR-894' le lega
+      - name: Commit & Push
+        run: |
+          git config --global user.email "actions@github.com"
+          git config --global user.name "GitHub Actions"
+          git add -A
+          git commit -m "generated 3d contrib image" || exit 0
+          git push
