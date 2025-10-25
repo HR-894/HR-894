@@ -1,9 +1,5 @@
-<p align="center">
-  <img src="https://i.imgur.com/Hi1yNFC.gif" alt="Cosmic Header" width="100%"/>
-</p>
-
 <h1 align="center">
-  <b>Hi 👋, I'm Himanshu Raj</b>
+  <b>Hi <img src="https://iam-weijie.github.io/wave/hand-emoji.svg" alt="Animated Emoji" width="40" height="40">, I'm Himanshu Raj</b>
 </h1>
 
 <p align="center">
@@ -11,22 +7,22 @@
 </p>
 
 <p align="center">
-  <img src="https://i.imgur.com/L8qj4sK.gif" alt="3D Rotating Crystal" width="200"/>
+  <img src="profile-3d-contrib/profile-green-animate.svg" alt="My 3D GitHub Contribution Graph" width="80%">
 </p>
 
 <h3 align="left">🚀 About Me</h3>
 <p align="left">
-  [cite_start]Main ek student hoon jo filhaal <b>IIT Roorkee ke iHUB Divya Sampark</b> se Product Management & Applied AI seekh raha hoon. [cite: 197, 201-202, 207-208] Mera passion technology aur strategy ke intersection par innovative products build karna hai.
+  Main ek student hoon jo filhaal <b>IIT Roorkee ke iHUB Divya Sampark</b> se Product Management & Applied AI seekh raha hoon. Mera passion technology aur strategy ke intersection par innovative products build karna hai.
   <br><br>
-  - [cite_start]🔭 I’m currently working on: <b>Finishing 2 major projects: ek Product Case Study aur ek AI POC (Proof of Concept).</b> [cite: 24, 118]
+  - 🔭 I’m currently working on: <b>Finishing 2 major projects: ek Product Case Study aur ek AI POC (Proof of Concept).</b>
   <br>
-  - [cite_start]🌱 I’m currently learning: <b>Python, JavaScript, aur SQL</b> to build a strong technical base. [cite: 203]
+  - 🌱 I’m currently learning: <b>Python, JavaScript, aur SQL</b> to build a strong technical base.
   <br>
-  - [cite_start]🎯 My 2026 Goal: To crack <b>CUET 2026</b> and pursue a <b>BCA</b>. [cite: 197, 204, 99]
+  - 🎯 My 2026 Goal: To crack <b>CUET 2026</b> and pursue a <b>BCA</b>.
   <br>
-  - [cite_start]🚀 My Career Vision: To become an impactful <b>Product Manager</b> and lead teams after an <b>MBA</b>. [cite: 205]
+  - 🚀 My Career Vision: To become an impactful <b>Product Manager</b> and lead teams after an <b>MBA</b>.
   <br>
-  - [cite_start]📫 How to reach me: <a href="mailto:himanshurajlkn2007@gmail.com"><b>himanshurajlkn2007@gmail.com</b></a> [cite: 183]
+  - 📫 How to reach me: <a href="mailto:himanshurajlkn2007@gmail.com"><b>himanshurajlkn2007@gmail.com</b></a>
 </p>
 
 <h3 align="left">🌌 My Skill Matrix</h3>
@@ -52,11 +48,11 @@
 
 <h3 align="left">📜 My Certifications</h3>
 <ul>
-  [cite_start]<li><b>Generative AI Mastermind</b> (Outskill) [cite: 209-210]</li>
-  [cite_start]<li><b>Future-Ready Product Management with Applied AI</b> [cite: 195]</li>
-  [cite_start]<li><b>OpenAI ChatGPT: Creating Custom GPTs</b> [cite: 193]</li>
-  [cite_start]<li><b>Copilot in Teams: AI-Powered Collaboration</b> [cite: 194]</li>
-  [cite_start]<li><b>Leveraging the Power of Social Intelligence in the Age of AI</b> [cite: 191-192]</li>
+  <li><b>Generative AI Mastermind</b> (Outskill)</li>
+  <li><b>Future-Ready Product Management with Applied AI</b></li>
+  <li><b>OpenAI ChatGPT: Creating Custom GPTs</b></li>
+  <li><b>Copilot in Teams: AI-Powered Collaboration</b></li>
+  <li><b>Leveraging the Power of Social Intelligence in the Age of AI</b></li>
 </ul>
 
 <h3 align="left">✨ My GitHub Stats:</h3>
@@ -66,6 +62,4 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HR-894&layout=compact&theme=tokyonight&bg_color=1a1b27" alt="Himanshu's Top Languages">
 </p>
 
-<p align="center">
-  <img src="https://i.imgur.com/nS3sQZt.gif" alt="Plexus Divider" width="100%"/>
-</p>
+---
