@@ -3,7 +3,7 @@
 </h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=28&color=b392f0&center=true&vCenter=true&width=650&lines=Product+Management+%26+Applied+AI+Student;Learning+at+IIT+Roorkee+iHUB;CUET+2026+Aspirant;Future+MBA+%26+Product+Leader+🚀" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=28&color=b392f0&center=true&vCenter=true&width=750&lines=Product+Management+%26+Applied+AI+Student;Learning+at+IIT+Roorkee+iHUB;CUET+2026+Aspirant;Future+MBA+%26+Product+Leader+🚀" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -15,7 +15,7 @@
 </p>
 
 <p align="center">
-  <img src="dist/snake-dark.svg" alt="My Contribution Snake Animation" width="80%">
+  <img src="dist/snake-ocean.svg" alt="My Contribution Snake Animation" width="80%">
 </p>
 
 <h3 align="left">🚀 About Me</h3>
@@ -36,7 +36,7 @@
 <h3 align="left">🌌 My Skill Matrix</h3>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=py,js,sql,git,github,openai,react,nodejs,tensorflow&perline=5&theme=dark" />
+    <img src="https://skillicons.dev/icons?i=py,js,sql,git,github,openai,react,nodejs,tensorflow&theme=dark" />
   </a>
 </p>
 
@@ -67,5 +67,5 @@
 </p>
 
 <p align="center">
-  <img src="https://i.imgur.com/nS3sQZt.gif" alt="Plexus Divider" width="100%"/>
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-template/master/assets/images/bottom_header.svg" width="100%" />
 </p>
