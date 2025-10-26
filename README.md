@@ -67,5 +67,5 @@
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-template/master/assets/images/bottom_header.svg" width="100%" />
+  <img src="https://i.imgur.com/nS3sQZt.gif" alt="Plexus Divider" width="100%"/>
 </p>
