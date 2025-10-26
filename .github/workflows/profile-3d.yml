@@ -1,9 +1,9 @@
 name: GitHub-Profile-3D-Contrib
 
 on:
-  schedule: # Yeh roz 12 baje UTC par run hoga
+  schedule:
     - cron: "0 12 * * *"
-  workflow_dispatch: # Isse aap manually bhi run kar sakte hain
+  workflow_dispatch:
 
 jobs:
   build:
@@ -12,9 +12,9 @@ jobs:
     steps:
       - uses: actions/checkout@v3
       - uses: yoshi389111/github-profile-3d-contrib@0.7.0
-        with:
+        env: # <-- YEH HAI FIX! 'with:' ki jagah 'env:' kar diya hai
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-          USERNAME: ${{ github.repository_owner }} # Yeh automatically 'HR-894' le lega
+          USERNAME: ${{ github.repository_owner }}
       - name: Commit & Push
         run: |
           git config --global user.email "actions@github.com"
