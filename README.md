@@ -3,11 +3,19 @@
 </h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=28&color=00FFFF&center=true&vCenter=true&width=650&lines=Product+Management+%26+Applied+AI+Student;Learning+at+IIT+Roorkee+iHUB;CUET+2026+Aspirant;Future+MBA+%26+Product+Leader+🚀" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=28&color=00FFFF&center=true&vCenter=true&width=650&lines=Product+Management+%26+Applied+AI+Student;Learning+at+IIT+Roorkee+iHUB;CUET+2026+AspirANT;Future+MBA+%26+Product+Leader+🚀" alt="Typing SVG" />
+</p>
+
+<p align="center">
+  <img src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2FHR-894&label=Profile%20Visitors&labelColor=%231a1b27&countColor=%2300ffff&style=flat-square" alt="Profile Visitors"/>
 </p>
 
 <p align="center">
   <img src="profile-3d-contrib/profile-green-animate.svg" alt="My 3D GitHub Contribution Graph" width="80%">
+</p>
+
+<p align="center">
+  <img src="dist/snake-dark.svg" alt="My Contribution Snake Animation" width="80%">
 </p>
 
 <h3 align="left">🚀 About Me</h3>
@@ -30,7 +38,7 @@
   <img src="https://img.shields.io/badge/Generative_AI-4A90E2?style=for-the-badge&logo=openai&logoColor=white" alt="Generative AI">
   <img src="https://img.shields.io/badge/AI_Automation-FF6F00?style=for-the-badge&logo=google-cloud&logoColor=white" alt="AI Automation">
   <img src="https://img.shields.io/badge/Prompt_Engineering-DA70D6?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0id2hpdGUiPjxwYXRoIGQ9Ik0yMCAySDhDNi45IDIgNiAyLjkgNiA0djEyYzAgMS4xLjkgMiAyIDJoMTJjMS4xIDAgMi0uOSAyLTJWMmMwLTEuMS0uOS0yLTItMnptMCAxNEg4VjRoMTJ2MTJ6TTQgOGMwLTEuMS0uOS0yLTItMmMtMS4xIDAtMiAuOS0yIDJ2MTJjMCAxLjEuOSAyIDIgMmgxMmMxLjEgMCAyLS45IDItMnYtMmgtMlY4SDR6bTYtNGgtMnYySDEwem00IDBoLTJ2MmgxMnYtMkgxNHptLTIgNGgtMnYySDEwem00IDBoLTJ2Mmgyem0tMiA0aC0ydjJoMnptNCAwaC0ydjJoMiIvPjwvc3ZnPg==" alt="Prompt Engineering">
-  <img src="https://img.shields.io/badge/Product_Management-8A2BE2?style=for-the-badge&logo=producthunt&logoColor=white" alt="Product Management">
+  <img src="https://img.shields.io:443/badge/Product_Management-8A2BE2?style=for-the-badge&logo=producthunt&logoColor=white" alt="Product Management">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript">
   <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL">
