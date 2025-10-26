@@ -20,7 +20,7 @@
 
 <h3 align="left">🚀 About Me</h3>
 <p align="left">
-  [cite_start]Main ek student hoon jo filhaal <b>IIT Roorkee ke iHUB Divya Sampark</b> se Product Management & Applied AI seekh raha hoon. [cite: 197, 201-202, 207-208] Mera passion technology aur strategy ke intersection par innovative products build karna hai.
+  Main ek student hoon jo filhaal <b>IIT Roorkee ke iHUB Divya Sampark</b> se Product Management & Applied AI seekh raha hoon. Mera passion technology aur strategy ke intersection par innovative products build karna hai.
   <br><br>
   - 🔭 I’m currently working on: <b>Finishing 2 major projects: ek Product Case Study aur ek AI POC (Proof of Concept).</b>
   <br>
@@ -37,12 +37,12 @@
 <p align="left">
   <img src="https://img.shields.io/badge/Generative_AI-4A90E2?style=for-the-badge&logo=openai&logoColor=white" alt="Generative AI">
   <img src="https://img.shields.io/badge/AI_Automation-FF6F00?style=for-the-badge&logo=google-cloud&logoColor=white" alt="AI Automation">
-  <img src="https://img.shields.io/badge/Prompt_Engineering-DA70D6?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0id2hpdGUiPjxwYXRoIGQ9Ik0yMCAySDhDNi45IDIgNiAyLjkgNiA0djEyYzAgMS4xLjkgMiAyIDJoMTJjMS4xIDAgMi0uOSAyLTJWMmMwLTEuMS0uOS0yLTItMnptMCAxNEg4VjRoMTJ2MTJ6TTQgOGMwLTEuMS0uOS0yLTItMmMtMS4xIDAtMiAuOS0yIDJ2MTJjMCAxLjEuOSAyIDIgMmgxMmMxLjEgMCAyLS4tMnYtMmgtMlY4SDR6bTYtNGgtMnYySDEwem00IDBoLTJ2MmgxMnYtMkgxNHptLTIgNGgtMnYySDEwem00IDBoLTJ2Mmgyem0tMiA0aC0ydjJoMnptNCAwaC0ydjJoMiIvPjwvc3ZnPg==" alt="Prompt Engineering">
+  <img src="https://img.shields.io/badge/Prompt_Engineering-DA70D6?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0id2hpdGUiPjxwYXRoIGQ9Ik0yMCAySDhDNi45IDIgNiAyLjkgNiA0djEyYzAgMS4xLjkgMiAyIDJoMTJjMS4xIDAgMi0uOSAyLTJWMmMwLTEuMS0uOS0yLTItMnptMCAxNEg4VjRoMTJ2MTJ6TTQgOGMwLTEuMS0uOS0yLTItMmMtMS4xIDAtMiAuOS0yIDJ2MTJjMCAxLjEuOSAyIDIgMmgxMmMxLjEgMCAyLS45IDItMnYtMmgtMlY4SDR6bTYtNGgtMnYySDEwem00IDBoLTJ2MmgxMnYtMkgxNHptLTIgNGgtMnYySDEwem00IDBoLTJ2Mmgyem0tMiA0aC0ydjJoMnptNCAwaC0ydjJoMiIvPjwvc3ZnPg==" alt="Prompt Engineering">
   <img src="https://img.shields.io:443/badge/Product_Management-8A2BE2?style=for-the-badge&logo=producthunt&logoColor=white" alt="Product Management">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript">
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL">
-</Request>
+  <img src="https://img.shields.io:443/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
+  <img src="https://img.shields.io:443/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript">
+  <img src="https://img.shields.io:443/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL">
+</p>
 
 <h3 align="left">🛰️ Connect with me:</h3>
 <p align="left">
@@ -56,11 +56,11 @@
 
 <h3 align="left">📜 My Certifications</h3>
 <ul>
-  [cite_start]<li><b>Generative AI Mastermind</b> (Outskill) [cite: 209-210]</li>
+  <li><b>Generative AI Mastermind</b> (Outskill)</li>
   <li><b>Future-Ready Product Management with Applied AI</b></li>
   <li><b>OpenAI ChatGPT: Creating Custom GPTs</b></li>
   <li><b>Copilot in Teams: AI-Powered Collaboration</b></li>
-  [cite_start]<li><b>Leveraging the Power of Social Intelligence in the Age of AI</b> [cite: 191-192]</li>
+  <li><b>Leveraging the Power of Social Intelligence in the Age of AI</b></li>
 </ul>
 
 <h3 align="left">✨ My GitHub Stats:</h3>
