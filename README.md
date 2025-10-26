@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=HR-894&label=PROFILE%20VIEWS&color=00ffff&style=flat-square" alt="Profile Visitors"/>
+  <img src="https://komarev.com/ghpvc/?username=HR-84&label=PROFILE%20VIEWS&color=00ffff&style=flat-square" alt="Profile Visitors"/>
 </p>
 
 <p align="center">
@@ -61,11 +61,11 @@
 
 <h3 align="left">✨ My GitHub Stats:</h3>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=HR-894&show_icons=true&theme=tokyonight&icon_color=79ff97&text_color=9f9f9f&bg_color=1a1b27" alt="Himanshu's GitHub Stats">
+  <img src="https://github-readme-stats.vercel.app/api?username=HR-84&show_icons=true&theme=tokyonight&icon_color=79ff97&text_color=9f9f9f&bg_color=1a1b27" alt="Himanshu's GitHub Stats">
   <br><br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HR-894&layout=compact&theme=tokyonight&bg_color=1a1b27" alt="Himanshu's Top Languages">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HR-84&layout=compact&theme=tokyonight&bg_color=1a1b27" alt="Himanshu's Top Languages">
 </p>
 
 <p align="center">
-  <img src="https://i.imgur.com/nS3sQZt.gif" alt="Plexus Divider" width="100%"/>
+  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/Gifs/space.gif" alt="Cosmic Divider" width="100%"/>
 </p>
