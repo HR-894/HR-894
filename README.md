@@ -3,7 +3,7 @@
 </h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=28&color=b392f0&center=true&vCenter=true&width=750&lines=Product+Management+%26+Applied+AI+Student;Learning+at+IIT+Roorkee+iHUB;CUET+2026+Aspirant;Future+MBA+%26+Product+Leader+🚀" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=28&color=b392f0&center=true&vCenter=true&width=750&lines=Product+Management+%26+Applied+AI+Student;Learning+at+IIT+Roorkee+iHUB;" alt="Typing SVG" />
 </p>
 
 <p align="center">
