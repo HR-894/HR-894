@@ -20,16 +20,8 @@
 
 <h3 align="left">🚀 About Me</h3>
 <p align="left">
-  Main ek student hoon jo filhaal <b>IIT Roorkee ke iHUB Divya Sampark</b> se Product Management & Applied AI seekh raha hoon. Mera passion technology aur strategy ke intersection par innovative products build karna hai.
-  <br><br>
-  - 🔭 I’m currently working on: <b>Finishing 2 major projects: ek Product Case Study aur ek AI POC (Proof of Concept).</b>
   <br>
   - 🌱 I’m currently learning: <b>Python, JavaScript, aur SQL</b> to build a strong technical base.
-  <br>
-  - 🎯 My 2026 Goal: To crack <b>CUET 2026</b> and pursue a <b>BCA</b>.
-  <br>
-  - 🚀 My Career Vision: To become an impactful <b>Product Manager</b> and lead teams after an <b>MBA</b>.
-  <br>
   - 📫 How to reach me: <a href="mailto:contacthimanshu222@gmail.com"><b>contacthimanshu222@gmail.com</b></a>
 </p>
 
@@ -42,7 +34,7 @@
 
 <h3 align="left">🛰️ Connect with me:</h3>
 <p align="left">
-  <a href="https://www.linkedin.com/in/himanshu-raj-373297383/" target="_blank">
+  <a href="[https://www.linkedin.com/in/hr894/]" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
   <a href="mailto:contacthimanshu222@gmail.com" target="_blank">
